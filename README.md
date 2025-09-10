@@ -6,6 +6,15 @@ What i did was, the book is in English and i will find that book translated into
 
 ## In Progress
 
+If want to use it, you need to create assets/ directory
+
+```javascript
+// This is for Atomic habits book, okay?
+for (let i = 1; i <= 21; i++) {
+  audioFiles.push(`assets/AChapter${i}.mp3`);
+}
+```
+
 The app needs book.pdf(the book that will be rendered) and some audio files
 
 I'm Working on it
