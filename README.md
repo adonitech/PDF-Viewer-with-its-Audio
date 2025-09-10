@@ -2,14 +2,14 @@
 
 You can listen while reading the book and actually helped me to learn english
 
-What i did was, the book is in English and i will find that book translated into amharic and then find its audiobook then i will read the book in english while listening to amharic that is fucking awesome
+What i did was, the book is in English and i will find that book translated into amharic and then find its audiobook then i will read the book in english while listening to amharic and that is fucking awesome
 
 ## In Progress
 
 If want to use it, you need to create assets/ directory
 
 ```javascript
-// This is for Atomic habits book, okay?
+// This is for Atomic habits book with 21 chapters and audiofiles name was like "AChapter1.mp3", okay?
 for (let i = 1; i <= 21; i++) {
   audioFiles.push(`assets/AChapter${i}.mp3`);
 }
